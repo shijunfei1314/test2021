@@ -6,6 +6,7 @@ package com.sjf.test;
  * @date:2021/4/9 17:21
  */
 public class Person {
+    private Integer id;
     private String name;
 
 }
